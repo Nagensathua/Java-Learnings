@@ -16,7 +16,7 @@ public class LearnInterfaceSBIBank implements LearnInterfaceBank {
 	public void customerUpdate() {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Updated Phone: "+phone);
+		System.out.println("Updated Phone Number: "+phone);
 		System.out.println("Updated Address: "+address);
 		System.out.println("Updated id proof: "+id);
 	
