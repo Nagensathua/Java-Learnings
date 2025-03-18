@@ -51,11 +51,11 @@ public class TestJavaOOPSConcept {
 		*/
 		
 		//Abstraction
-		/*
+		
 		LearnAbstractionDog lad = new LearnAbstractionDog();
 		lad.makeSound();
 		lad.displayInfo();
-		*/
+		
 		//Interface
 		System.out.println("-------------------------------------------");
 		LearnInterfaceHDFCBank lihb = new LearnInterfaceHDFCBank(987654321,"Pune,India","Aadhar");
