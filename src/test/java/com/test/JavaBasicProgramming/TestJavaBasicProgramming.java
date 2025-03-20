@@ -10,6 +10,8 @@ public class TestJavaBasicProgramming {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		System.out.println("----------------------------------------------------------------------");
 		EvenOrOddProgram eoop = new EvenOrOddProgram();
 		eoop.evenOrOdd(13);
 		
@@ -25,6 +27,7 @@ public class TestJavaBasicProgramming {
 		
 		NumberOfWordsinString nows = new NumberOfWordsinString();
 		nows.countWords("my name is nagen");
+		System.out.println("----------------------------------------------------------------------");
 	}
 
 }
